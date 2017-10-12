@@ -1,0 +1,11 @@
+Generacion(1)=82.000000;
+Generacion(2)=82.000000;
+Generacion(3)=82.000000;
+Generacion(4)=82.000000;
+Generacion(5)=82.000000;
+Generacion(6)=82.000000;
+Generacion(7)=82.000000;
+Generacion(8)=82.000000;
+Generacion(9)=82.000000;
+Generacion(10)=82.000000;
+figure,plot(1:10,Generacion);
